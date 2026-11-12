@@ -6,6 +6,10 @@
 
 This is a true **full‑stack** project—not just a pretty UI.
 
+
+
+EXPO_TOKEN=0FDL9at5QWiqof9FbYztSqLJJ0EyRXt3zUix0HmC
+
 ✅ Works on **real devices & simulators** (Android / iOS)  
 ✅ Zero native code, zero paid services  
 ✅ Complete build in **~7 hours**
